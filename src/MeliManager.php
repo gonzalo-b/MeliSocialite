@@ -20,7 +20,7 @@ use Illuminate\Support\Facades\Auth;
 class MeliManager
 {
     public static $API_ROOT_URL = "https://api.mercadolibre.com";
-    public static $AUTH_URL     = "http://auth.mercadolibre.com/authorization";
+    public static $AUTH_URL     = "http://auth.mercadolibre.com.ar/authorization";
     public static $OAUTH_URL    = "/oauth/token";
 
     /**
